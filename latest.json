@@ -1,9 +1,9 @@
 {
   "name": "Velora",
-  "latestVersion": "2.4.0",
-  "minimumVersion": "2.4.0",
-  "downloadUrl": "https://www.dropbox.com/scl/fi/i7dse40zkrc4mnf0or3cm/Velora-Installer-2.4.0.exe?rlkey=p39vo4u3ris4za2jfpbpki1ab&st=uj7ze56f&dl=1",
-  "installerName": "Velora-Installer-2.4.0.exe",
+  "latestVersion": "2.4.1",
+  "minimumVersion": "2.4.1",
+  "downloadUrl": "https://www.dropbox.com/scl/fi/zsjg61zo0q4tvfsjmgnmq/Velora-Installer-2.4.1.exe?rlkey=h9jxeov83zj26bok9g84yl583&st=gbg9kov0&dl=1",
+  "installerName": "Velora-Installer-2.4.1.exe",
   "app": "up",
   "services": "working",
   "cloudSync": "working",
