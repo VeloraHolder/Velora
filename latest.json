@@ -5,8 +5,9 @@
   "app": "up",
   "services": "working",
   "cloudSync": "working",
-  "installerName": "Velora-Installer-2.4.2.exe",
-  "downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/veloraveloravelora/Velora-Installer-2.4.2.exe",
+"downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/veloraveloravelora/Velora-Installer-2.4.2.exe"
+"installerName": "Velora-Installer-2.4.2.exe",
+
   "sha256": "9C5F7C1D7A239B0596A38E299DC8C9F20E6AEC7844D6F409FEC288EC494F7973",
   "message": "Velora 2.4.2 is the latest stable build.",
   "outdatedMessage": "A newer Velora build is available. Download the latest installer to continue.",
