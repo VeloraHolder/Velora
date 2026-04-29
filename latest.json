@@ -4,9 +4,9 @@
   "minimumVersion": "2.4.2",
   "downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/veloraveloravelora/Velora-Installer-2.4.2.exe"
   "installerName": "Velora-Installer-2.4.2.exe",
-  "app": "working",
-  "services": "up",
-  "cloudSync": "up",
+  "app": "up",
+  "services": "working",
+  "cloudSync": "working",
   "message": "Velora -> down due to detection issues, trying to get the app signed by microsoft.",
   "outdatedMessage": "Downloading the newest Velora installer."
 }
