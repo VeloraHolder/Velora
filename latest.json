@@ -1,7 +1,7 @@
 {
   "name": "Velora",
   "latestVersion": "2.4.2",
-  "minimumVersion": "2.4.2",
+  "minimumVersion": "2.4.0",
   "app": "up",
   "services": "working",
   "cloudSync": "working",
@@ -10,5 +10,5 @@
   "sha256": "9C5F7C1D7A239B0596A38E299DC8C9F20E6AEC7844D6F409FEC288EC494F7973",
   "message": "Velora 2.4.2 is the latest stable build.",
   "outdatedMessage": "A newer Velora build is available. Download the latest installer to continue.",
-  "publishedAt": "2026-04-25"
+  "publishedAt": "2026-04-29"
 }
