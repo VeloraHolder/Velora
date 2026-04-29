@@ -2,11 +2,11 @@
   "name": "Velora",
   "latestVersion": "2.4.1",
   "minimumVersion": "2.4.1",
-  "downloadUrl": "https://www.dropbox.com/scl/fi/zsjg61zo0q4tvfsjmgnmq/Velora-Installer-2.4.1.exe?rlkey=h9jxeov83zj26bok9g84yl583&st=gbg9kov0&dl=1",
+  "downloadUrl": "hdttps://www.dropbox.com/scl/fi/zsjg61zo0q4tvfsjmgnmq/Velora-Installer-2.4.1.exe?rlkey=h9jxeov83zj26bok9g84yl583&st=gbg9kov0&dl=1",
   "installerName": "Velora-Installer-2.4.1.exe",
-  "app": "up",
-  "services": "working",
-  "cloudSync": "working",
-  "message": "Velora 2.4.0 is available.",
+  "app": "down",
+  "services": "not working",
+  "cloudSync": "not working",
+  "message": "Velora -> down due to detection issues, trying to get the app signed by microsoft.",
   "outdatedMessage": "Downloading the newest Velora installer."
 }
