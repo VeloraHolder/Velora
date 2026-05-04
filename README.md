@@ -10,8 +10,7 @@ https://getvelora.netlify.app
 
 Latest installer:
 
-https://www.dropbox.com/scl/fi/i7dse40zkrc4mnf0or3cm/Velora-Installer-2.4.0.exe?rlkey=p39vo4u3ris4za2jfpbpki1ab&st=7sv300jh&dl=1
-
+gaygyagyagyayzefuehpoiufjkdshgfdskfzdsjkfvqjklghdfkghj 
 Community and support:
 
 https://discord.gg/FjB27cjSPp
