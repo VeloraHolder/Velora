@@ -2,13 +2,13 @@
   "name": "Velora",
   "latestVersion": "2.4.5",
   "minimumVersion": "2.4.5",
-  "app": "down",
-  "services": "not working",
-  "cloudSync": "not working",
+  "app": "up",
+  "services": "working",
+  "cloudSync": "working",
   "installerName": "Velora-Installer-2.4.5.exe",
-  "downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/veloraveloravelora/Velora-Installer-2.4.5.exe",
+  "downloadUrl": "https://githb.com/VeloraHolder/Velora/releases/download/veloraveloravelora/Velora-Installer-2.4.5.exe",
   "sha256": "4EFF5941421B4186EF5692C33BB01A9CF42A119539176E971D26B44CCF12CDC6",
-  "message": "⚠️ Velora is currently down due to internal issues and authentication problems introduced in the latest update. We are actively fixing the issue and reorganizing development to improve stability and quality. Velora will also officially leave beta once services are restored. Thanks for your patience.",
+  "message": "⚠️ Velora is currently BETA TESTING88888 issues and authentication problems introduced in the latest update. We are actively fixing the issue and reorganizing development to improve stability and quality. Velora will also officially leave beta once services are restored. Thanks for your patience.",
   "outdatedMessage": "Velora authentication is currently broken after the latest update. The app is temporarily unavailable while fixes are being worked on.",
   "publishedAt": "2026-05-02"
 }
