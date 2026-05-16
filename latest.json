@@ -1,16 +1,16 @@
 {
   "name": "Velora",
-  "latestVersion": "2.5.1",
-  "minimumVersion": "2.5.1",
+  "latestVersion": "2.5.2",
+  "minimumVersion": "2.5.2",
   "app": "up",
   "services": "working",
   "cloudSync": "working",
-  "installerName": "Velora-Installer-2.5.1.exe",
-  "downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/veloraveloravelora/Velora-Installer-2.5.1.exe",
+  "installerName": "Velora-Installer-2.5.2.exe",
+  "downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/veloraveloravelora/Velora-Installer-2.5.2.exe",
   "sha256": "6DFDBB0E6FB841F956226FB2C3C2634C774B53A29AA9C6C1CA9F21D0E7BC6FB7",
-  "message": "Velora 2.5.2 is the latest stable build. the app will say 2.5.1 yeah ik version mismatch currently",
+  "message": "Velora 2.5.2 is the latest stable build.",
   "outdatedMessage": "A newer Velora build is available. Download the latest installer to continue.",
-  "publishedAt": "2026-05-14"
+  "publishedAt": "2026-05-16"
 }
 
 
