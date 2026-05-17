@@ -7,8 +7,8 @@
   "cloudSync": "working",
   "installerName": "Velora-Installer-2.5.3.exe",
   "downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/veloraveloravelora/Velora-Installer-2.5.3.exe",
-  "sha256": "C7FE6DEBA5B01D4E1A8FAD5F928FF3A84BE860DEF52437909726093FF5A36408",
-  "message": "Velora 2.5.3 is the latest stable build with refreshed release , updated announcement templates, and partner page cleanup.",
+  "sha256": "6E94CA5544831139B25A2E123F42D42AF9B1A87F609A0D2D37835DEB2F0238F8",
+  "message": "Velora 2.5.3 is the latest stable build with refreshed release copy, updated announcement templates, and partner page cleanup.",
   "outdatedMessage": "A newer Velora build is available. Download the latest installer to continue.",
   "publishedAt": "2026-05-17"
 }
