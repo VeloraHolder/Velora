@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "Velora",
-    "version": "1.2.0",
+    "version": "1.0.0",
     "minimumSupported": "1.0.0",
     "forceUpdate": false,
     "releaseDate": "2026-05-23"
