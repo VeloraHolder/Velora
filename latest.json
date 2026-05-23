@@ -3,7 +3,7 @@
   "latestVersion": "2.6.0",
   "minimumVersion": "2.6.0",
   "app": "up",
-  "services": "working",
+  "services": "down",
   "cloudSync": "working",
   "installerName": "Velora-Installer-2.6.0.exe",
   "downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/veloraveloravelora/Velora-Installer-2.6.0.exe",
