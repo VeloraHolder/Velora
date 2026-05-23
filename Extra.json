@@ -1,0 +1,30 @@
+{
+  "app": {
+    "name": "Velora",
+    "version": "1.2.0",
+    "minimumSupported": "1.0.0",
+    "forceUpdate": false,
+    "releaseDate": "2026-05-23"
+  },
+
+  "download": {
+    "url": "https://github.com/YOURUSER/Velora/releases/latest",
+    "directExe": "https://github.com/YOURUSER/Velora/releases/download/v1.2.0/Velora.exe"
+  },
+
+  "messages": {
+    "title": "Update Available",
+    "body": "A newer Velora version is available.",
+    "upToDate": "You are running the newest version.",
+    "forced": "Your version is no longer supported."
+  },
+
+  "changelog": [
+    "Added auto updater",
+    "Added restore points",
+    "Added gaming tweaks",
+    "Improved network optimization",
+    "Improved console UI",
+    "Added backup system"
+  ]
+}
