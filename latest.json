@@ -1,14 +1,14 @@
 {
   "name": "Velora",
-  "latestVersion": "2.6.7",
-  "minimumVersion": "2.6.7",
+  "latestVersion": "2.6.0",
+  "minimumVersion": "2.6.0",
   "app": "up",
   "services": "working",
   "cloudSync": "working",
-  "installerName": "Velora-Installer-2.6.7.exe",
-  "downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/veloraveloravelora/Velora-Installer-2.6.7.exe",
-  "sha256": "948574F20211F55B05AE83A8E3D5B5E01CDF462C0C3F4ED6A65A653C31F282B5",
-  "message": "Tuning Toolkit 2.6.7 is the current release plan with expanded partner routes, denser update copy, and refreshed release surfaces.",
+  "installerName": "Velora-Installer-2.6.0.exe",
+  "downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/veloraveloravelora/Velora-Installer-2.6.0.exe",
+  "sha256": "370CF96048B6286AF5B9B634F77DE43F3BECCC6BD99A35C7AE75DF603B78A31F",
+  "message": "Tuning Toolkit 2.6.0 is the latest stable build with the navigation fix, cleaner sign-in flow, and updated release surfaces.",
   "outdatedMessage": "A newer Velora build is available. Download the latest installer to continue.",
   "publishedAt": "2026-05-25"
 }
