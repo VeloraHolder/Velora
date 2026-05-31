@@ -8,8 +8,8 @@
   },
 
   "download": {
-    "url": "https://github.com/YOURUSER/Velora/releases/latest",
-    "directExe": "https://github.com/YOURUSER/Velora/releases/download/v1.2.0/Velora.exe"
+    "url": "https://github.com/VeloraHolder/Velora/blob/main/Velora.exe",
+    "directExe": "https://github.com/VeloraHolder/Velora/blob/main/Velora.exe"
   },
 
   "messages": {
