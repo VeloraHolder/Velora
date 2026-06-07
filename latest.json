@@ -1,14 +1,15 @@
 {
   "name": "Velora",
-  "latestVersion": "2.6.0",
-  "minimumVersion": "2.6.0",
+  "latestVersion": "0.2",
+  "minimumVersion": "0.2",
   "app": "up",
   "services": "working",
   "cloudSync": "working",
-  "installerName": "Velora-Installer-2.6.0.exe",
-  "downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/veloraveloravelora/Velora-Installer-2.6.0.exe",
-  "sha256": "370CF96048B6286AF5B9B634F77DE43F3BECCC6BD99A35C7AE75DF603B78A31F",
-  "message": "Tuning Toolkit 2.6.0 is the latest stable build with the navigation fix, cleaner sign-in flow, and updated release surfaces.",
-  "outdatedMessage": "A newer Velora build is available. Download the latest installer to continue.",
-  "publishedAt": "2026-05-25"
+  "installerName": "Velora-Installer-0.2.exe",
+  "downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/veloraveloravelora/Velora-Installer-0.2.exe",
+  "sha256": "",
+  "message": "Astrella 0.2 is the current reset baseline for release testing, update verification, and versionsurface cleanup.",
+  "outdatedMessage": "A newer AStrella build is available. Download the latest installer to continue.",
+  "publishedAt": "2026-06-07"
 }
+
