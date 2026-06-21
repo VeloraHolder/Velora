@@ -6,8 +6,8 @@
   "services": "working",
   "cloudSync": "working",
   "installerName": "Hazel-Installer-0.2.0.exe",
-  "downloadUrl": "",
-  "sha256": "",
+  "downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/veloraveloravelora/Hazel-Installer-0.2.0.exe",
+  "sha256": "E18838EA950244D2C7956C01955E952D1F02BFF5E21E6F06438D745D0D9F2328",
   "message": "Hazel 0.2.0 is the current desktop baseline with the release-ready settings pass and cleaner packaging checks.",
   "outdatedMessage": "A newer Hazel build is available. Download the latest installer to continue.",
   "publishedAt": "2026-06-07"
