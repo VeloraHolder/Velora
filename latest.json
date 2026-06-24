@@ -1,14 +1,39 @@
 {
   "name": "Hazel",
-  "latestVersion": "0.2.0",
+  "latestVersion": "0.3.0",
   "minimumVersion": "0.2.0",
   "app": "up",
   "services": "working",
   "cloudSync": "working",
-  "installerName": "Hazel-Installer-0.2.0.exe",
-  "downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/veloraveloravelora/Hazel-Installer-0.2.0.exe",
-  "sha256": "E18838EA950244D2C7956C01955E952D1F02BFF5E21E6F06438D745D0D9F2328",
-  "message": "Hazel 0.2.0 is the current desktop baseline with the release-ready settings pass and cleaner packaging checks.",
+  "installerName": "Hazel-Installer-0.3.0.exe",
+  "downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/veloraveloravelora/Hazel-Installer-0.3.0.exe",
+  "sha256": "UPDATE_AFTER_BUILD",
+  "message": "Hazel 0.3.0 — 909 tweaks, partners tab, service debloat, console bootstrapper, and BIOS workspace improvements.",
   "outdatedMessage": "A newer Hazel build is available. Download the latest installer to continue.",
-  "publishedAt": "2026-06-07"
+  "publishedAt": "2026-06-24",
+  "partners": [
+    {
+      "id": "hazel",
+      "name": "HAZEL OFFICIAL",
+      "type": "Official",
+      "description": "Primary Discord for announcements, purchase help, support tickets, and release follow-up.",
+      "url": "https://discord.gg/FjB27cjSPp",
+      "status": "Online",
+      "tags": ["Support", "Announcements", "Community"],
+      "color": "#5865F2",
+      "promo": { "title": "Join the Community", "body": "Get help, share configs, and stay up to date with Hazel development." }
+    },
+    {
+      "id": "BRBRRBR",
+      "name": "BRBRBRBRRRBR",
+      "type": "Community",
+      "description": "Community partner listing for privacy and data leak awareness.",
+      "url": "https://discord.gg/uQTwZSwxyE",
+      "status": "Active",
+      "tags": ["Privacy", "Security"],
+      "color": "#FF6B6B",
+      "promo": { "title": "Stay Private", "body": "Zero Leaks helps you find and fix data leaks before they become a problem." }
+    }
+  ]
 }
+
