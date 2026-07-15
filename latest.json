@@ -2,14 +2,14 @@
   "name": "Hazel",
   "latestVersion": "0.3.0",
   "minimumVersion": "0.2.0",
-  "app": "up",
-  "services": "working",
-  "cloudSync": "working",
+  "app": "down",
+  "services": "down ",
+  "cloudSync": "down",
   "installerName": "Hazel-Installer-0.3.0.exe",
   "downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/HAZELRELEASES/Hazel-Installer-0.3.0.exe",
   "sha256": "",
   "message": "Hazel 0.3.0 — 909 tweaks, partners tab, service debloat, console bootstrapper, and BIOS workspace improvements.",
-  "outdatedMessage": "A newer Hazel build is available. Download the latest installer to continue.",
+  "outdatedMessage": "This version of hazel is discontinued, please wait until the rewrite is out..",
   "publishedAt": "2026-06-24",
   "partners": [
     {
