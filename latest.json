@@ -2,38 +2,11 @@
   "name": "Hazel",
   "latestVersion": "0.3.0",
   "minimumVersion": "0.2.0",
-  "app": "down",
-  "services": "down ",
-  "cloudSync": "down",
+  "app": "online",
+  "services": "online",
+  "cloudSync": "online",
   "installerName": "Hazel-Installer-0.3.0.exe",
   "downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/HAZELRELEASES/Hazel-Installer-0.3.0.exe",
-  "sha256": "",
-  "message": "Hazel 0.3.0 — 909 tweaks, partners tab, service debloat, console bootstrapper, and BIOS workspace improvements.",
-  "outdatedMessage": "This version of hazel is discontinued, please wait until the rewrite is out..",
-  "publishedAt": "2026-06-24",
-  "partners": [
-    {
-      "id": "astrella-community",
-      "name": "Astrella Community",
-      "type": "Official",
-      "description": "Primary Discord for announcements, purchase help, support tickets, and release follow-up.",
-      "url": "https://discord.gg/FjB27cjSPp",
-      "status": "Online",
-      "tags": ["Support", "Announcements", "Community"],
-      "color": "#5865F2",
-      "promo": { "title": "Join the Community", "body": "Get help, share configs, and stay up to date with Hazel development." }
-    },
-    {
-      "id": "dqdqsdsqdsqdgdfsgqdfs",
-      "name": "dsqdq",
-      "type": "Community",
-      "description": "Community partner listing for privacy and data leak awareness.",
-      "url": "https://discord.gg/uQTwZSwxyE",
-      "status": "Active",
-      "tags": ["Privacy", "Security"],
-      "color": "#FF6B6B",
-      "promo": { "title": "Stay Private", "body": "Zero Leaks helps you find and fix data leaks before they become a problem." }
-    }
-  ]
+  "message": "Hazel 0.3.0 — 909 tweaks, anti-tamper, anti-VM, anti-debug, Discord & email auth.",
+  "partners": []
 }
-
