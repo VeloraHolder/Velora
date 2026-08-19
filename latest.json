@@ -6,7 +6,8 @@
   "services": "online",
   "cloudSync": "online",
   "installerName": "Hazel-Installer-0.3.0.exe",
-  "downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/HAZELRELEASES/Hazel-Installer-0.3.0.exe",
+  "downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/HAZELRELEASES/Haze.Setup.2.1.0-beta.1.exe
+",
   "message": "Hazel 0.3.0 - released",
   "partners": []
 }
