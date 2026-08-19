@@ -1,13 +1,12 @@
 {
   "name": "Hazel",
-  "latestVersion": "0.3.0",
+  "latestVersion": "2.1.1",
   "minimumVersion": "0.2.0",
   "app": "online",
   "services": "online",
   "cloudSync": "online",
-  "installerName": "Hazel-Installer-0.3.0.exe",
-  "downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/HAZELRELEASES/Haze.Setup.2.1.0-beta.1.exe
-",
-  "message": "Hazel 0.3.0 - released",
+  "installerName": "Haze.Setup.2.1.1.exe",
+  "downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/HAZELRELEASES/Haze.Setup.2.1.1.exe",
+  "message": "Haze 2.1.1 - Fixes blank screen on all Windows versions. Reinstall required to apply.",
   "partners": []
 }
