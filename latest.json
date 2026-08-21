@@ -1,16 +1,17 @@
 {
   "name": "Haze",
-  "latestVersion": "2.1.6",
-  "minimumVersion": "2.1.6",
+  "latestVersion": "2.1.8",
+  "minimumVersion": "2.1.8",
   "app": "online",
   "services": "online",
   "cloudSync": "online",
-  "installerName": "Haze.Setup.2.1.6.exe",
-  "downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/HAZELRELEASES/Haze.Setup.2.1.6.exe",
-  "message": "Haze 2.1.6",
+  "installerName": "Haze.Setup.2.1.8.exe",
+  "downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/HAZELRELEASES/Haze.Setup.2.1.8.exe",
+  "message": "Haze 2.1.8 advanced profiles, expanded debloat, and updater reliability with 900+ verified controls.",
   "releaseNotes": [
-    
-    "idk."
+    "lots of shiut idk",
+
+    "Info action kind for guidance only entries; REG_BINARY normalization for reliable verification."
   ],
   "partners": []
 }
