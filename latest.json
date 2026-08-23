@@ -1,17 +1,16 @@
 {
   "name": "Haze",
-  "latestVersion": "2.1.8",
-  "minimumVersion": "2.1.8",
-  "app": "down",
+  "latestVersion": "2.1.10",
+  "minimumVersion": "0.2.0",
+  "app": "online",
   "services": "online",
   "cloudSync": "online",
-  "installerName": "Haze.Setup.2.1.8.exe",
-  "downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/HAZELRELEASES/Haze.Setup.2.1.8.exe",
-  "message": "Haze 2.1.8 advanced profiles, expanded debloat, and updater reliability with 900+ verified controls.",
+  "installerName": "Haze.Setup.2.1.10.exe",
+  "downloadUrl": "https://github.com/VeloraHolder/Velora/releases/download/HAZELRELEASES/Haze.Setup.2.1.10.exe",
+  "message": "Haze 2.1.10 — reliable Tweaks apply/revert, no stuck scanning, and cleaner UI.",
   "releaseNotes": [
-    "lots of shiut idk",
-
-    "Info action kind for guidance only entries; REG_BINARY normalization for reliable verification."
+    "UI overhaul.",
+    "Removed the sidebar logo and fixed missing toggles on the card-grid pages."
   ],
   "partners": []
 }
