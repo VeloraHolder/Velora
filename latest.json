@@ -2,7 +2,7 @@
   "name": "Haze",
   "latestVersion": "2.1.8",
   "minimumVersion": "2.1.8",
-  "app": "online",
+  "app": "down",
   "services": "online",
   "cloudSync": "online",
   "installerName": "Haze.Setup.2.1.8.exe",
